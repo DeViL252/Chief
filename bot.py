@@ -141,7 +141,7 @@ if __name__ == "__main__":
 
 
 # async def create_db_pool():
-#     bot.db = await asyncpg.create_pool(database="chieftest", user="postgres", password="ArYa250611")
+#     bot.db = await asyncpg.create_pool(database="chieftest", user="postgres", password="HERE")
 #     print("Connected to Datebase.")
 
 # bot.loop.create_task(create_db_pool())
