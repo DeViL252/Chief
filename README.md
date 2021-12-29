@@ -1,2 +1,2 @@
-#Multi-Purpose Discord Bot 
- - Moderation, Welcome, Reaction Role, Music
+# Multi-Purpose Discord Bot 
+- Moderation, Welcome, Reaction Role, Music and more
